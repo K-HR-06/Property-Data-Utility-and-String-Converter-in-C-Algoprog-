@@ -13,7 +13,6 @@ This project demonstrates foundational C programming through structures, arrays,
 | `SoalAOL1.c` | String reversal and letter-case conversion program |
 | `SoalAOL2.c` | Menu-driven property data utility |
 | `file.csv` | Property dataset containing 3,939 records and eight columns |
-| `SOAL AOL ALGOPROG.docx` | Assignment instructions and assessment criteria |
 
 ## Technologies
 
