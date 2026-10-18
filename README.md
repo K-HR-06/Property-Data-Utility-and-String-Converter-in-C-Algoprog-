@@ -1,5 +1,3 @@
-# Algorithm-and-Programming
-
 # Property Data Utility and String Converter in C
 
 Two command-line programs developed for the **Algorithm and Programming** course at **Bina Nusantara University**, Semester 1, 2023–2024.
